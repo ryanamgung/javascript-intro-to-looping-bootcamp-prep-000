@@ -30,6 +30,6 @@ function maybeTrue() {
 function doWhileLoop(array)
 {
  doWhileLoop{
-   
- } while()
+   array.pop()
+ } while(maybeTrue && array.length > 0)
 }
