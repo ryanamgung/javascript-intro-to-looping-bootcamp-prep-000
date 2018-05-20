@@ -22,6 +22,11 @@ function whileLoop(n)
   return 'done'
 }
 
+//work in tandem
+function maybeTrue() {
+  return Math.random() >= 0.5
+}
+
 function doWhileLoop(array)
 {
  doWhileLoop{
