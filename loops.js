@@ -24,5 +24,7 @@ function whileLoop(n)
 
 function doWhileLoop(array)
 {
-  
+ doWhileLoop{
+   
+ } while()
 }
